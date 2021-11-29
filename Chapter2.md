@@ -119,4 +119,23 @@ S.No.	Comparison	Fuzzification	Defuzzification
 
 
 
+DEFUZZIFICATION TECGNIQUES(http://vlabs.iitb.ac.in/vlabs-dev/labs/machine_learning/labs/exp9/theory.php)->
+
+1)Lambda-Cut Method
+2)Maxima Methods
+  a)First of maxima(FOM)
+  b)Last of maxima(LOM)
+  c)Mean of Maxima(MOM)
+3)Weighted Sum Method
+4)Centroid Methods
+  a)Center of Sum(COS)
+  b)Center of Gravity(COG)
+
+LAMBDA-CUT METHOD(easy)-> compare the value of membership value with given value of lambda. If it is greater or equal(>=) make it 1 else make it 0.
+FIRST OF MAXIMA-> the first maximum value.
+LAST OF MAXIMA-> the last maximum value
+MEAN OF MAXIMA-> mean of the maximum values.
+WEIGHTED AVERAGE METHOD->sumation of(element* membership value)/(sum of membership values)
+
+CENTER OF SUM->sumation of(area of the component* center)/sumation of(area)
 
