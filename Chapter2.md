@@ -105,8 +105,8 @@ This process is capable of generating a nonfuzzy control action which illustrate
 
 Defuzzification process can also be treated as the rounding off process, where fuzzy set having a group of membership values on the unit interval reduced to a single scalar quantity.
 
-| Comparison | Fuzzification | Defuzzification |
-| ----------- | ----------- |
+ Comparison | Fuzzification | Defuzzification 
+| ----------- | ----------- | ------------ |
 | Basic | 	Precise data is converted into imprecise data. | Imprecise data is converted into precise data. |
 | Definition | Fuzzification is the method of converting a crisp quantity into a fuzzy quantity. | Defuzzification is the inverse process of fuzzification where the mapping is done to convert the fuzzy results into crisp results. |
 | Example | Like, Voltmeter | Stepper motor and D/A converter |
