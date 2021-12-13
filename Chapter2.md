@@ -1,36 +1,31 @@
-Fuzzy Logic | Introduction
+# Fuzzy Logic | Introduction
 
-The term fuzzy refers to things that are not clear or are vague. In the real world many times we encounter a situation when we can’t determine whether the state is true or false, their fuzzy logic provides very valuable flexibility for reasoning. In this way, we can consider the inaccuracies and uncertainties of any situation. 
+- The term fuzzy refers to things that are not clear or are vague. In the real world many times we encounter a situation when we can’t determine whether the state is true or false, their fuzzy logic provides very valuable flexibility for reasoning. In this way, we can consider the inaccuracies and uncertainties of any situation. 
 
-In the boolean system truth value, 1.0 represents the absolute truth value and 0.0 represents the absolute false value. But in the fuzzy system, there is no logic for the absolute truth and absolute false value. But in fuzzy logic, there is an intermediate value too present which is partially true and partially false. 
-
-
+- In the boolean system truth value, 1.0 represents the absolute truth value and 0.0 represents the absolute false value. But in the fuzzy system, there is no logic for the absolute truth and absolute false value. But in fuzzy logic, there is an intermediate value too present which is partially true and partially false. 
 
 
-
-ARCHITECTURE 
-
-
-
+# Architecture 
 
 Its Architecture contains four parts :
 
-RULE BASE: It contains the set of rules and the IF-THEN conditions provided by the experts to govern the decision-making system, on the basis of linguistic information. Recent developments in fuzzy theory offer several effective methods for the design and tuning of fuzzy controllers. Most of these developments reduce the number of fuzzy rules.
-FUZZIFICATION: It is used to convert inputs i.e. crisp numbers into fuzzy sets. Crisp inputs are basically the exact inputs measured by sensors and passed into the control system for processing, such as temperature, pressure, rpm’s, etc.
-INFERENCE ENGINE: It determines the matching degree of the current fuzzy input with respect to each rule and decides which rules are to be fired according to the input field. Next, the fired rules are combined to form the control actions.
-DEFUZZIFICATION: It is used to convert the fuzzy sets obtained by the inference engine into a crisp value. There are several defuzzification methods available and the best-suited one is used with a specific expert system to reduce the error.
+- RULE BASE: It contains the set of rules and the IF-THEN conditions provided by the experts to govern the decision-making system, on the basis of linguistic information. Recent developments in fuzzy theory offer several effective methods for the design and tuning of fuzzy controllers. Most of these developments reduce the number of fuzzy rules.
+- FUZZIFICATION: It is used to convert inputs i.e. crisp numbers into fuzzy sets. Crisp inputs are basically the exact inputs measured by sensors and passed into the control system for processing, such as temperature, pressure, rpm’s, etc.
+- INFERENCE ENGINE: It determines the matching degree of the current fuzzy input with respect to each rule and decides which rules are to be fired according to the input field. Next, the fired rules are combined to form the control actions.
+- DEFUZZIFICATION: It is used to convert the fuzzy sets obtained by the inference engine into a crisp value. There are several defuzzification methods available and the best-suited one is used with a specific expert system to reduce the error.
 
 
-Membership function
+# Membership function
 
-Definition: A graph that defines how each point in the input space is mapped to membership value between 0 and 1. Input space is often referred to as the universe of discourse or universal set (u), which contains all the possible elements of concern in each particular application. 
+-  A graph that defines how each point in the input space is mapped to membership value between 0 and 1. Input space is often referred to as the universe of discourse or universal set (u), which contains all the possible elements of concern in each particular application. 
 
-There are largely three types of fuzzifiers:  
+# There are largely three types of fuzzifiers:  
 
 Singleton fuzzifier
 Gaussian fuzzifier
 Trapezoidal or triangular fuzzifier
-What is Fuzzy Control? 
+
+# What is Fuzzy Control? 
 
 It is a technique to embody human-like thinkings into a control system.
 It may not be designed to give accurate reasoning but it is designed to give acceptable reasoning.
@@ -61,11 +56,13 @@ It is done by Aggregation of data and changing it into more meaningful data by f
 
 
 
-What is Fuzzy Set ?
+# What is Fuzzy Set ?
 
 Fuzzy refers to something that is unclear or vague . Hence, Fuzzy Set is a Set where every key is associated with value, which is between 0 to 1 based on the certainity .This value is often called as degree of membership.
 Fuzzy Set is denoted with a Tilde Sign on top of the normal Set notation.
 
+
+# Operations on Fuzzy Sets-
 
 1. Union :
 
@@ -96,12 +93,12 @@ degree_of_membership(Y)= min(degree_of_membership(A), 1- degree_of_membership(B)
 
 
 
-Fuzzification:
+- Fuzzification:
 It is the method of transforming a crisp quantity into a fuzzy quantity. This can be achieved by identifying the various known crisp and deterministic quantities as completely nondeterministic and quite uncertain in nature. This uncertainty may have emerged because of vagueness and imprecision which then lead the variables to be represented by a membership function as they cab be fuzzy in nature.
 
 For example, when I say the temperature is 45° Celsius the viewer converts the crisp input value into a linguistic variable like favourable temperature for the human body, hot or cold.
 
-Defuzzification:
+- Defuzzification:
 It is the inversion of fuzzification, there the mapping is done to convert the crisp results into fuzzy results but here the mapping is done to convert the fuzzy results into crisp results.
 This process is capable of generating a nonfuzzy control action which illustrates the possibility distribution of an inferred fuzzy control action.
 
@@ -119,7 +116,7 @@ S.No.	Comparison	Fuzzification	Defuzzification
 
 
 
-DEFUZZIFICATION TECGNIQUES(http://vlabs.iitb.ac.in/vlabs-dev/labs/machine_learning/labs/exp9/theory.php)->
+# DEFUZZIFICATION TECGNIQUES(http://vlabs.iitb.ac.in/vlabs-dev/labs/machine_learning/labs/exp9/theory.php)->
 
 1)Lambda-Cut Method
 2)Maxima Methods
