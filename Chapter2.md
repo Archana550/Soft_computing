@@ -43,16 +43,17 @@ Disadvantages of Fuzzy Logic Systems
 Many researchers proposed different ways to solve a given problem through fuzzy logic which leads to ambiguity. There is no systematic approach to solve a given problem through fuzzy logic.
 Proof of its characteristics is difficult or impossible in most cases because every time we do not get a mathematical description of our approach.
 As fuzzy logic works on precise as well as imprecise data so most of the time accuracy is compromised.
-Application 
 
-It is used in the aerospace field for altitude control of spacecraft and satellites.
-It has been used in the automotive system for speed control, traffic control.
-It is used for decision-making support systems and personal evaluation in the large company business.
-It has application in the chemical industry for controlling the pH, drying, chemical distillation process.
-Fuzzy logic is used in Natural language processing and various intensive applications in Artificial Intelligence.
-Fuzzy logic is extensively used in modern control systems such as expert systems.
-Fuzzy Logic is used with Neural Networks as it mimics how a person would make decisions, only much faster.
-It is done by Aggregation of data and changing it into more meaningful data by forming partial truths as Fuzzy sets.
+# Application 
+
+- It is used in the aerospace field for altitude control of spacecraft and satellites.
+- It has been used in the automotive system for speed control, traffic control.
+- It is used for decision-making support systems and personal evaluation in the large company business.
+- It has application in the chemical industry for controlling the pH, drying, chemical distillation process.
+- Fuzzy logic is used in Natural language processing and various intensive applications in Artificial Intelligence.
+- Fuzzy logic is extensively used in modern control systems such as expert systems.
+- Fuzzy Logic is used with Neural Networks as it mimics how a person would make decisions, only much faster.
+- It is done by Aggregation of data and changing it into more meaningful data by forming partial truths as Fuzzy sets.
 
 
 
@@ -104,15 +105,19 @@ This process is capable of generating a nonfuzzy control action which illustrate
 
 Defuzzification process can also be treated as the rounding off process, where fuzzy set having a group of membership values on the unit interval reduced to a single scalar quantity.
 
+| Comparison | Fuzzification | Defuzzification |
+| ----------- | ----------- |
+| Basic | 	Precise data is converted into imprecise data. | Imprecise data is converted into precise data. |
+| Definition | Fuzzification is the method of converting a crisp quantity into a fuzzy quantity. | Defuzzification is the inverse process of fuzzification where the mapping is done to convert the fuzzy results into crisp results. |
+| Example | Like, Voltmeter | Stepper motor and D/A converter |
+| Methods | Intuition, inference, rank ordering, angular fuzzy sets, neural network, etcetera.	 | Maximum membership principle, centroid method, weighted average method, center of sums, etcetera. |
+| Complexity | It is quite simple. | It is quite complicated. |
+| Use | It can use IF-THEN rules for fuzzifying the crisp value. | It uses the center of gravity methods to find the centroid of the sets.
+ |
 
 
-S.No.	Comparison	Fuzzification	Defuzzification
-1.	Basic:	Precise data is converted into imprecise data.	Imprecise data is converted into precise data.
-2.	Definition:	Fuzzification is the method of converting a crisp quantity into a fuzzy quantity.	Defuzzification is the inverse process of fuzzification where the mapping is done to convert the fuzzy results into crisp results.
-3.	Example:	Like, Voltmeter	Like, Stepper motor and D/A converter
-4.	Methods:	Intuition, inference, rank ordering, angular fuzzy sets, neural network, etcetera.	Maximum membership principle, centroid method, weighted average method, center of sums, etcetera.
-5.	Complexity:	It is quite simple.	It is quite complicated.
-6.	Use:	It can use IF-THEN rules for fuzzifying the crisp value.	It uses the center of gravity methods to find the centroid of the sets.
+
+
 
 
 
