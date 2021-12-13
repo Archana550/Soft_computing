@@ -1,5 +1,5 @@
-1) What is soft computing ?
-  ##Soft computing provides an approximate but precise solution for real-life problems.
+# 1) What is soft computing ?
+- Soft computing provides an approximate but precise solution for real-life problems.
 The algorithms of soft computing are adaptive, so the current process is not affected by any kind of change in the environment.
 The concept of soft computing is based on learning from experimental data. It means that soft computing does not require any mathematical model to solve the problem.
 Soft computing helps users to solve real-world problems by providing approximate results that conventional and analytical models cannot solve.
@@ -7,16 +7,16 @@ It is based on Fuzzy logic, genetic algorithms, machine learning, ANN, and exper
 
 OR
 
-Soft Computing could be a computing model evolved to resolve the non-linear issues that involve unsure, imprecise and approximate solutions of a tangle.
+- Soft Computing could be a computing model evolved to resolve the non-linear issues that involve unsure, imprecise and approximate solutions of a tangle.
 These sorts of issues square measure thought of as real-life issues wherever the human-like intelligence is needed to resolve it.
 
 
-2)Define Hard Computing.
-  ##Hard Computing is that the ancient approach employed in computing that desires Associate in Nursing accurately declared analytical model. the outcome of hard computing approach is a warranted, settled, correct result and defines definite management actions employing a mathematical model or algorithmic rule. 
+# 2)Define Hard Computing.
+- Hard Computing is that the ancient approach employed in computing that desires Associate in Nursing accurately declared analytical model. the outcome of hard computing approach is a warranted, settled, correct result and defines definite management actions employing a mathematical model or algorithmic rule. 
   It deals with binary and crisp logic that need the precise input file consecutive. Hard computing isn’t capable of finding the real world problem’s solution.
   
   
-3) Soft computing versus Hard computing.
+# 3) Soft computing versus Hard computing.
   
 1.	Soft Computing is liberal of inexactness, uncertainty, partial truth and approximation.	Hard computing needs a exactly state analytic model.
 2.	Soft Computing relies on formal logic and probabilistic reasoning.	Hard computing relies on binary logic and crisp system.
@@ -49,21 +49,21 @@ Solution
 Through conventional programming, either the answer is Yes or No. But these strings might be 80% similar according to soft computing.  
 You have noticed that soft computing gave us the approximate solution.
 
-4) Various types of soft computing techniques?
-#Any problems can be resolved effectively using these components. Following are three types of techniques used by soft computing:
+# 4) Various types of soft computing techniques?
+Any problems can be resolved effectively using these components. Following are three types of techniques used by soft computing:
 
 Fuzzy Logic
 Artificial Neural Network (ANN)
 Genetic Algorithms
 
-#Fuzzy Logic (FL)
+# Fuzzy Logic (FL)
 Fuzzy logic is nothing but mathematical logic which tries to solve problems with an open and imprecise spectrum of data. It makes it easy to obtain an array of 
 precise conclusions.
 
 Fuzzy logic is basically designed to achieve the best possible solution to complex problems from all the available information and input data. 
 Fuzzy logics are considered as the best solution finders.
 
-#Neural Network (ANN)
+# Neural Network (ANN)
 Neural networks were developed in the 1950s, which helped soft computing to solve real-world problems, which a computer cannot do itself. We all know that a human brain can easily describe real-world conditions, but a computer cannot.
 
 
@@ -73,7 +73,7 @@ Thereby the computer or a machine can learn things so that they can take decisio
 Artificial Neural Networks (ANN) are mutually connected with brain cells and created using regular computing programming. 
 It is like as the human neural system.
 
-#Genetic Algorithms (GA)
+# Genetic Algorithms (GA)
 Genetic algorithm is almost based on nature and take all inspirations from it. 
 There is no genetic algorithm that is based on search-based algorithms, which find its roots in natural selection and the concept of genetics.
 
@@ -81,9 +81,9 @@ There is no genetic algorithm that is based on search-based algorithms, which fi
 In addition, a genetic algorithm is a subset of a large branch of computation.
 
 
-5) Applications of soft computing ?
+# 5) Applications of soft computing ?
 
-#There are several applications of soft computing where it is used. Some of them are listed below:
+There are several applications of soft computing where it is used. Some of them are listed below:
 
 It is widely used in gaming products like Poker and Checker.
 In kitchen appliances, such as Microwave and Rice cooker.
