@@ -18,16 +18,16 @@ These sorts of issues square measure thought of as real-life issues wherever the
   
    Soft computing | Hard computing.  
   --- | --- 
-   Soft Computing is liberal of inexactness, uncertainty, partial truth and approximation. | Hard computing needs a exactly state analytic model.
-	Soft Computing relies on formal logic and probabilistic reasoning. |	Hard computing relies on binary logic and crisp system.
-	Soft computing has the features of approximation and dispositionality.  |	Hard computing has the features of exactitude(precision) and categoricity.
-	Soft computing works on ambiguous and noisy data. |	Hard computing works on exact data.
-	Soft computing can perform parallel computations. |	Hard computing performs sequential computations.
-	Soft computing produces approximate results. |	Hard computing produces precise results.
-	Soft computing will emerge its own programs. |	Hard computing requires programs to be written.
-	Soft computing incorporates randomness. |	Hard computing is settled.
-	Soft computing will use multivalued logic. |	Hard computing uses two-valued logic.
-	Soft computing is stochastic in nature. | Hard computing is deterministic in nature.
+   is liberal of inexactness, uncertainty, partial truth and approximation. |  needs a exactly state analytic model.
+	 relies on formal logic and probabilistic reasoning. |	 relies on binary logic and crisp system.
+	 has the features of approximation and dispositionality.  |	 has the features of exactitude(precision) and categoricity.
+	 works on ambiguous and noisy data. |	 works on exact data.
+	 can perform parallel computations. |	 performs sequential computations.
+	 produces approximate results. |    produces precise results.
+	 It will emerge its own programs. |  It requires programs to be written.
+	 It incorporates randomness. | It is settled.
+	 It will use multivalued logic. |	It uses two-valued logic.
+	 It is stochastic in nature. | It is deterministic in nature.
 
 
 Example
