@@ -16,8 +16,8 @@ These sorts of issues square measure thought of as real-life issues wherever the
   It deals with binary and crisp logic that need the precise input file consecutive. Hard computing isn’t capable of finding the real world problem’s solution.
   
   
-# 3) | Soft computing | Hard computing. |
- | ------ | ------|
+  Soft computing | Hard computing. 
+ | ------ | ------ | ------ |
    Soft Computing is liberal of inexactness, uncertainty, partial truth and approximation. |	Hard computing needs a exactly state analytic model.
 	Soft Computing relies on formal logic and probabilistic reasoning. |	Hard computing relies on binary logic and crisp system.
 	Soft computing has the features of approximation and dispositionality.  |	Hard computing has the features of exactitude(precision) and categoricity.
