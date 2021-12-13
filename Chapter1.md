@@ -85,10 +85,10 @@ In addition, a genetic algorithm is a subset of a large branch of computation.
 
 There are several applications of soft computing where it is used. Some of them are listed below:
 
-It is widely used in gaming products like Poker and Checker.
-In kitchen appliances, such as Microwave and Rice cooker.
-In most used home appliances - Washing Machine, Heater, Refrigerator, and AC as well.
-Apart from all these usages, it is also used in Robotics work (Emotional per Robot form).
-Image processing and Data compression are also popular applications of soft computing.
-Used for handwriting recognition.
+- It is widely used in gaming products like Poker and Checker.
+- In kitchen appliances, such as Microwave and Rice cooker.
+- In most used home appliances - Washing Machine, Heater, Refrigerator, and AC as well.
+- Apart from all these usages, it is also used in Robotics work (Emotional per Robot form).
+- Image processing and Data compression are also popular applications of soft computing.
+- Used for handwriting recognition.
 As we already said that, soft computing provides the solution to real-time problems and here you can see that. Besides these applications, there are many other applications of soft computing.
