@@ -112,8 +112,8 @@ Defuzzification process can also be treated as the rounding off process, where f
 | Example | Like, Voltmeter | Stepper motor and D/A converter |
 | Methods | Intuition, inference, rank ordering, angular fuzzy sets, neural network, etcetera.	 | Maximum membership principle, centroid method, weighted average method, center of sums, etcetera. |
 | Complexity | It is quite simple. | It is quite complicated. |
-| Use | It can use IF-THEN rules for fuzzifying the crisp value. | It uses the center of gravity methods to find the centroid of the sets.
- |
+ Use | It can use IF-THEN rules for fuzzifying the crisp value. | It uses the center of gravity methods to find the centroid of the sets.
+ 
 
 
 
@@ -133,11 +133,11 @@ Defuzzification process can also be treated as the rounding off process, where f
   a)Center of Sum(COS)
   b)Center of Gravity(COG)
 
-LAMBDA-CUT METHOD(easy)-> compare the value of membership value with given value of lambda. If it is greater or equal(>=) make it 1 else make it 0.
-FIRST OF MAXIMA-> the first maximum value.
-LAST OF MAXIMA-> the last maximum value
-MEAN OF MAXIMA-> mean of the maximum values.
-WEIGHTED AVERAGE METHOD->sumation of(element* membership value)/(sum of membership values)
+- LAMBDA-CUT METHOD(easy)-> compare the value of membership value with given value of lambda. If it is greater or equal(>=) make it 1 else make it 0.
+- FIRST OF MAXIMA-> the first maximum value.
+- LAST OF MAXIMA-> the last maximum value
+- MEAN OF MAXIMA-> mean of the maximum values.
+- WEIGHTED AVERAGE METHOD->sumation of(element* membership value)/(sum of membership values)
 
-CENTER OF SUM->sumation of(area of the component* center)/sumation of(area)
+- CENTER OF SUM->sumation of(area of the component* center)/sumation of(area)
 
