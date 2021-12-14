@@ -1,6 +1,7 @@
 - https://www.geeksforgeeks.org/fuzzy-logic-introduction/
 - https://www.geeksforgeeks.org/fuzzy-logic-set-2-classical-fuzzy-sets/
 - https://www.geeksforgeeks.org/fuzzy-logic-set-2-classical-fuzzy-sets/
+- http://vlabs.iitb.ac.in/vlabs-dev/labs/machine_learning/labs/exp9/theory.php
 
 # Fuzzy Logic | Introduction
 
