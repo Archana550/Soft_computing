@@ -1,3 +1,6 @@
+- https://www.geeksforgeeks.org/fuzzy-logic-introduction/
+
+
 # Fuzzy Logic | Introduction
 
 - The term fuzzy refers to things that are not clear or are vague. In the real world many times we encounter a situation when we can’t determine whether the state is true or false, their fuzzy logic provides very valuable flexibility for reasoning. In this way, we can consider the inaccuracies and uncertainties of any situation. 
