@@ -7,3 +7,5 @@ https://www.geeksforgeeks.org/introduction-to-ann-set-4-network-architectures/
 - Single node with its own feedback
 - Single layer recurrent network
 - Multi layer recurrent network
+
+When outputs can be directed back as inputs to the same layer or preceding layer nodes, then it results in feedback networks. Recurrent networks are feedback networks with closed loops.
